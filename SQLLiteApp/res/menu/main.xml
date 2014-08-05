@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+   <item android:id="@+id/add_new" 
+      android:icon="@drawable/add"
+      android:title="@string/add" 
+      android:showAsAction="ifRoom|withText">
+   </item>
+   <item android:id="@+id/excel_dump" 
+      android:icon="@drawable/excel"
+      android:title="@string/excel_dump" 
+      android:showAsAction="ifRoom|withText">
+   </item>
+</menu>
