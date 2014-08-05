@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <ListView
+		android:layout_height="wrap_content"
+		android:id="@+id/linear_list"
+		android:layout_width="fill_parent"></ListView>
+
+     <TextView
+         android:id="@+id/no_records_text"
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:layout_alignParentLeft="true"
+         android:layout_alignParentTop="true"
+         android:gravity="center"
+         android:text="@string/no_records_found"
+         android:textColor="#ff0000"
+         android:textSize="35sp" />
+
+</RelativeLayout>

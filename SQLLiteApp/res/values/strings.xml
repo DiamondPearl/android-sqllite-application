@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Muthu - SQL Lite App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="dob">DOB</string>
+    <string name="entername">Enter your Name</string>
+    <string name="enteremail">Enter your Email Address</string>
+    <string name="enteraddress">Enter your Address</string>
+    <string name="pincode">Pincode</string>
+    <string name="enterpincode">Enter your Pincode</string>
+    <string name="phone">Phone</string>
+    <string name="enterphone">Enter your Phone</string>
+    <string name="entercity">Enter City</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="submit">Save Record</string>
+    <string name="edit">Edit Details</string>
+    <string name="add">Add New</string>
+    <string name="save">Save Record</string>
+    <string name="update_record">Update Record</string>
+    <string name="delete">Delete Record</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="no_records_found">No Records Found</string>
+    <string name="excel_dump">Dump Data</string>
+    
+
+</resources>
